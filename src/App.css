@@ -1,0 +1,22 @@
+.url-label {
+
+  font-style: italic;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 200;
+  font-size: 20px;
+}
+
+.text-data {
+  text-align: center;
+}
+
+.form-control {
+
+  margin-left: 20px;
+}
+
+.btn {
+  width: 150px;
+  margin-left: 20px;
+  margin-top: -20px;
+}
